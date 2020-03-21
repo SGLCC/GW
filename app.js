@@ -91,8 +91,8 @@ app.post("/",function(req,res){
     var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-    user: 'gupta.aman1602@gmail.com',
-    pass: '2305aman9336559951'
+    user: 'sglcc.german@gmail.com',
+    pass: '18sglcc2020'
     }
     });
     const mailOptions = {
